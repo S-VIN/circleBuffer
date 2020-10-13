@@ -84,6 +84,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/stepan/Yandex.Disk/Documents/homeProjects/circleBuffer/CircleBuffer.h">
+			<Option target="circleBuffer"/>
+		</Unit>
 		<Unit filename="/home/stepan/Yandex.Disk/Documents/homeProjects/circleBuffer/main.cpp">
 			<Option target="circleBuffer"/>
 		</Unit>

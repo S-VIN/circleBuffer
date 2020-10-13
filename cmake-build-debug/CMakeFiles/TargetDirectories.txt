@@ -1,0 +1,3 @@
+/home/stepan/Yandex.Disk/Documents/homeProjects/circleBuffer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stepan/Yandex.Disk/Documents/homeProjects/circleBuffer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/stepan/Yandex.Disk/Documents/homeProjects/circleBuffer/cmake-build-debug/CMakeFiles/circleBuffer.dir

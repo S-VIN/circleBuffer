@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepan/Yandex.Disk/Documents/homeProjects/circleBuffer/main.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+stdlib.h
+/home/stepan/Yandex.Disk/Documents/homeProjects/circleBuffer/stdlib.h
+
